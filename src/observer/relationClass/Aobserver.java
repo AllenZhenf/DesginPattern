@@ -3,7 +3,11 @@ package observer.relationClass;
 import observer.interfacer.DisplayElement;
 import observer.interfacer.Observer;
 import observer.interfacer.Subject;
-
+/**
+ * 具体观察者
+ * @author szf
+ *
+ */
 public class Aobserver implements Observer, DisplayElement {
 	private float tempture;
 	private float humidity; 
