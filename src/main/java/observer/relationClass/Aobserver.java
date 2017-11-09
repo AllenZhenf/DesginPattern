@@ -21,13 +21,11 @@ public class Aobserver implements Observer, DisplayElement {
 	}
 	@Override
 	public void display() {
-		// TODO Auto-generated method stub
 		System.out.println("ÎÂ¶È£º"+tempture+"\n"+"Êª¶È:"+humidity);
 	}
 	
 	@Override
 	public void update(float tempture,float humidity) {
-		// TODO Auto-generated method stub
 		this.tempture=tempture;
 		this.humidity=humidity;
 		display();
