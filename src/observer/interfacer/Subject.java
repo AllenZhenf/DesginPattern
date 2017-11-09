@@ -6,7 +6,7 @@ package observer.interfacer;
  *
  */
 public interface Subject {
-	public void addSubject(Observer o);
-	public void removeSubject(Observer o);
-	public void notifySubject();
+	 void addSubject(Observer o);
+	 void removeSubject(Observer o);
+	 void notifySubject();
 }
