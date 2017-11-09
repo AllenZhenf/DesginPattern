@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/decorator/DrinkDocorator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/observer/interfacer/Observer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/observer/interfacer/Subject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/observer/relationClass/Aobserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/observer/relationClass/Bobserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/observerByUtil/Cobserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/simpleFactory/BMW520.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/simpleFactory/BMW530.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/single/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/single/Test.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
