@@ -1,6 +1,7 @@
 package decorator;
 
 public class DrinkDocorator_third extends DrinkDocorator_first{
+
 	Drink drink;
 	
 	public DrinkDocorator_third(Drink drink) {
