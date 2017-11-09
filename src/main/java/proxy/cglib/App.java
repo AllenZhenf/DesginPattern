@@ -3,6 +3,7 @@ package proxy.cglib;
 import org.junit.Test;
 
 public class App {
+
     @Test
     public void test(){
         UserDao target = new UserDao();
