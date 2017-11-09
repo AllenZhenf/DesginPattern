@@ -1,6 +1,7 @@
 package simpleFactory;
 
 public class BMWFactory {
+
 	public BMW createBMW(String type){
 		BMW bmw=null;
 		switch(type){
